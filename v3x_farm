@@ -1,0 +1,14 @@
+getgenv().ItemToFarm = "Lucky Arrow"
+
+
+getgenv().NormalTeleportTime = 100
+
+
+getgenv().TimeForSpawningAllItems = 7 
+
+
+
+
+
+--script made by xct1337 x Nuke Vs City Premium 
+--KEY_PRIVATE = XCTEK@ODJN#S
